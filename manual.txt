@@ -1,0 +1,81 @@
+Hello! :)
+
+Let's start learning Lot!
+
+Let's start with the basics. Let's write a "Hello, World" program.
+
+CODE:
+
+	100
+	Hello,World!
+
+Done. Now let's learn what variables are.
+You can create a variable and name it a or b or c.
+Let's create a variable a with the value 10.
+
+CODE:
+	200
+	a
+	10
+
+Great!
+We can look at the value of the variable like this-
+
+CODE:
+	150
+	a
+
+Now it's time to learn what conditions and labels are.
+First, let's create a label that will call function 100 (display text on the screen).
+
+CODE:
+	800
+	100
+
+Now it's time to create the condition. Watch carefully-
+
+CODE:
+	200
+	a
+	5
+	200
+	b
+	5
+	700
+	a
+	b
+
+We have created a condition in which we will compare the values ​​of variables a and b, if they are equal, a transition to the label will occur.
+
+In case you're wondering, 710 is the < operator, and 720 is >. :)
+
+Cycles remain. Cycles in the Lot language are quite simple. Let's create a cycle in which we increase the value of the variable a by 11 units.
+
+CODE:
+	200
+	a
+	0
+	500
+	11
+	a
+
+For convenience, I first reset the variable value to zero.
+Let's see the result.
+
+CODE:
+	150
+	a
+
+You can also generate a random number and load it into a variable.
+
+CODE:
+	400
+	1
+	10
+	c
+	150
+	c
+
+Here we have generated a random number in the range from 1 to 10 into the variable c and printed the value of the variable to the screen.
+
+I think we'll finish here. Thank you all for your attention, study programming, good luck! :)
